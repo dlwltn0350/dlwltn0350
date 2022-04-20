@@ -1,3 +1,7 @@
+<p>
+  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+</p>
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 💪 Skills
+#### Platforms & Languages
+
+
+#### Tools
+
+
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwltn0350&show_icons=true&theme=radical)
