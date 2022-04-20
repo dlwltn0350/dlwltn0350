@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:dlwltn0350@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlwltn0350@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### Hi there 👋
