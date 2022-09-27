@@ -1,10 +1,6 @@
-<p>
-  <a href="mailto:dlwltn0350@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlwltn0350@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+<div align="center">
 
-### Hi there 👋
-
-<!--
+  <!--
 **dlwltn0350/dlwltn0350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <p>
+    <a href="mailto:dlwltn0350@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlwltn0350@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  </p>
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwltn0350&show_icons=true&theme=radical) 
+    <br />
 
-### 💪 Skills
-#### Platforms & Languages
-
-
-#### Tools
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwltn0350&show_icons=true&theme=radical) 
-  <br />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltn0350)](https://solved.ac/dlwltn0350/)
+  
+</div>
