@@ -1,5 +1,7 @@
 <div align="center">
-
+  
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+  
   <h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/RabbitMQ-F7DF1E?style=for-the-badge&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF" style="height : auto; margin-left : 10px; margin-right : 10px;"/> <img src="https://img.shields.io/badge/Amazon+S3-F7DF1E?style=for-the-badge&color=569A31&logo=Amazon+S3&logoColor=FFFFFF" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <br>
@@ -14,8 +16,9 @@
  <br/><br/>
   
   <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
+ 
   [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dlwltn0350@gmail.com)
+  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-96f009199d0c4edd8d7bd89fa181ebef?pvs=4)
   <br/><br/>
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltn0350)](https://solved.ac/dlwltn0350/)
 </div>
