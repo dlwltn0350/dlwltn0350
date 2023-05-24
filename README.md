@@ -23,7 +23,7 @@
   <h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
  
   [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:dlwltn0350@gmail.com)
-  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-96f009199d0c4edd8d7bd89fa181ebef?pvs=4)
+  [![Notion](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-96f009199d0c4edd8d7bd89fa181ebef?pvs=4)
   <br/><br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwltn0350)](https://solved.ac/dlwltn0350/)
 </div>
